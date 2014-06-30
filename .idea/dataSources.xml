@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="1212094241">
+    <data-source source="LOCAL" name="PostgreSQL - martin@localhost" uuid="f574a9b2-8736-4479-bb71-2cd78862c493">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/martin</jdbc-url>
+      <user-name>martin</user-name>
+      <user-password>dffddfcfdfc8dfcedfcfdfdcdfcddfc5dfcedf9adf9b</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Django default" uuid="872ba021-8e03-4cb5-a3f7-47c5cc6a42be">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1/martin</jdbc-url>
+      <user-name>martin</user-name>
+      <user-password>dffddfcfdfc8dfcedfcfdfdcdfcddfc5dfcedf9adf9b</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Django martin" uuid="6b13d9be-7d11-4121-a409-1c29e2b31e45">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/martin</jdbc-url>
+      <user-name>martin</user-name>
+      <user-password>dffddfcfdfc8dfcedfcfdfdcdfcddfc5dfcedf9adf9b</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
